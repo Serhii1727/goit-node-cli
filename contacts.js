@@ -1,3 +1,6 @@
+import fs from "fs/promises";
+import path from "path";
+
 /*
  * Розкоментуй і запиши значення
  * const contactsPath = ;
